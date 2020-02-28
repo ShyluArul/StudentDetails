@@ -1,4 +1,4 @@
-package com.bankapp;
+package com.student;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
